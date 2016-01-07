@@ -1,3 +1,5 @@
 # hello-world
 
-# This repository is creted for Purely Python begginnes to help them out.
+I am a Biggane Python Developer
+This repository is created for Purely Python beginners to help them out.
+
