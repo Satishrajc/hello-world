@@ -1,2 +1,3 @@
 # hello-world
-Just a trail to creat a repository in GitHub
+
+# This repository is creted for Purely Python begginnes to help them out.
